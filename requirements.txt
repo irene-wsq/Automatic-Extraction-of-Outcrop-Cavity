@@ -12,6 +12,4 @@ imgaug
 IPython[all]
 
 
-
-python balloon.py train --weights coco  --dataset C:\Users\Administrator\Desktop\Mask_RCNN-master\Mask_RCNN-master\datasets
-python balloon.py splash --weights C:\Users\Administrator\Desktop\Mask_RCNN-master\Mask_RCNN-master\logs\balloon20201109T1542\mask_rcnn_balloon_0043.h5 --image C:\Users\Administrator\Desktop\Mask_RCNN-master\Mask_RCNN-master\train\0.jpg
+Examples are in the example folder
