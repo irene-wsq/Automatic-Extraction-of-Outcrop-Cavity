@@ -9,11 +9,11 @@ From the [Releases page](https://github.com/matterport/Mask_RCNN/releases) page:
 
 Train a new model starting from pre-trained COCO weights
 ```
-python3 balloon.py train --dataset=/path/to/balloon/dataset --weights=coco
+python3 balloon.py train --dataset=/path/to/dataset --weights=coco
 ```
 
 Resume training a model that you had trained earlier
 ```
-python3 balloon.py train --dataset=/path/to/balloon/dataset --weights=last
+python3 balloon.py train --dataset=/path/to/dataset --weights=last
 ```
 
